@@ -6,7 +6,8 @@ cd .. --> volver a la carpeta inicial
 mkdir--> crear carpeta
 rm --> eliminar archivos
 staging--> area de preparación
-push--> meter los archivos a la nube 
+git init--> crear una carpeta oculta de git
+git push--> meter los archivos a la nube 
 git pull --> sincronizar la nube con el local
 git add . --> guardar
 git commit -am "mensaje" --> Se agraga y se copia el mensaje si ya se tiene los archivos traqueados
