@@ -1,0 +1,17 @@
+cd--> cambiar de carpetas
+pwd--> decirme en que carpeta estoy
+ls--> me muestras los directorio que hay 
+ls -sl--> mostrar los direcctorios y las carpetas
+cd .. --> volver a la carpeta inicial
+mkdir--> crear carpeta
+rm --> eliminar archivos
+staging--> area de preparación
+push--> meter los archivos a la nube 
+git pull --> sincronizar la nube con el local
+git add . --> guardar
+git commit -am "mensaje" --> Se agraga y se copia el mensaje si ya se tiene los archivos traqueados
+git branch --> listar ramas
+git branch (nombre) --> crear una rama
+git checkout (nombre) --> entrar en la rama
+git checkout main --> volver al main
+git merge --> combinar cambios de dos ramas distintas
