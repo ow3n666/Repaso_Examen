@@ -15,4 +15,4 @@ git branch --> listar ramas
 git branch (nombre) --> crear una rama
 git checkout (nombre) --> entrar en la rama
 git checkout main --> volver al main
-git merge --> combinar cambios de dos ramas distintas
+git merge nombre-rama--> combinar cambios de dos ramas distintas
